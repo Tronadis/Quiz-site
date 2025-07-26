@@ -1,0 +1,112 @@
+[
+	{
+		"done": "true",
+		"question": "Comment bien sécuriser un mot de passe?",
+		"a": "En combinant le nom de mon animal de compagnie avec la date de naissance de ma nièce.",
+		"b": "En combinant des lettres majuscules, des lettres minuscules, des chiffres et des caractères spéciaux.",
+		"c": "En le gardant sur papier, sous mon clavier. Les pirates n'accèdent pas à ce qui n'est pas numérique.",
+		"d": "En utilisant un seul mot de passe pour tout, comme ça il ne se trouve que dans ma tête.",
+		"right": "b",
+		"comment": "Un mot de passe fort combine des majuscules, des lettres minuscules, des chiffres et des caractères spéciaux. Cela crée une complexité qui rend les mots de passe plus difficiles à deviner ou à craquer machinalement.",
+		"complementaryComment": "Les informations personnelles sont faciles à collecter pour un pirate qui veut tenter sa chance. Un bout de papier n'est pas connecté à Internet, mais quelqu'un peut le trouver. En réutilisant le même mot de passe, si un seul compte est compromis, les autres sont automatiquement en danger. Même si vous utilisez un coffre-fort de mots de passes, vous n'utilisez votre mot de passe principal que pour l'ouvrir. Il ne se retrouve dans aucun compte."
+	},
+	{
+		"done": "true",
+		"question": "Vous recevez un courriel urgent de votre banque, indiquant que votre compte risque d'être fermé, sauf à vite vérifier vos informations de connexion par le lien fourni. Que faire ?",
+		"a": "Cliquer sur le lien et entrer immédiatement mes coordonnées. C'est urgent.'",
+		"b": "Appeler le numéro de téléphone fourni dans l'e-mail. De vive voix, c'est plus sur.'",
+		"c": "Aller dans mon espace personnel sur le site de la banque séparément (sans utiliser le lien fourni) pour vérifier s'il y a vraiment une telle chose que cette histoire.",
+		"d": "Je répond au courrier électronique pour demander une vérification.",
+		"right": "c",
+		"comment": "Utilisez toujours les sites directement dans votre navigateur, ou les applications officielles, plutôt que de cliquer sur les liens des courriels ou des textos. Les organisations légitimes ne demandent jamais de vérifier des informations sensibles via des liens de courrier électronique.",
+		"complementaryComment": "Bien que les faux emails soient faits pour avoir l'air vrais, tout ce qu'ils contiennent peut être falsifié, non seulement les liens mais aussi les numéros de téléphone, et bien sur l'adresse de l'expéditeur. En les utilisant, on ne sait jamais à qui l'on parle réellement. Les pièces jointes aussi peuvent contenir des virus."
+	},
+	{
+		"done": "true",
+		"question": "Quelle activité est la plus sûre à faire sur un Wi-Fi public?",
+		"a": "Lire mon courrier électronique personnel.",
+		"b": "Vérifier le solde de mon compte en banque.",
+		"c": "Lire les actualités sur les sites d'information.",
+		"d": "Faire des achats en ligne.",
+		"right": "c",
+		"comment": "Le Wi-Fi public n'est pas sûr pour les activités sensibles. La navigation sur les sites web d'information comporte un risque minimal comparé à l'accès à des comptes personnels ou à la saisie d'informations de paiement.",
+		"complementaryComment": "Être sur un Wi-Fi public, c'est être sur celui de quelqu'un d'autre, en compagnie d'inconnus. Si vous devez utiliser des données sensibles, faites-le plutôt par le réseau mobile."
+	},
+	{
+		"done": "true",
+		"question": "Pourquoi les mises à jour logicielles sont-elles importantes pour votre smartphone ?",
+		"a": "Ils ajoutent de nouvelles fonctionnalités et corrigent des bogues ainsi que des failles de sécurité.",
+		"b": "Ils améliorent la durée de vie de la batterie.",
+		"c": "Ils augmentent l'espace de stockage.",
+		"d": "Seulement en cas de problèmes avérés.",
+		"right": "a",
+		"comment": "Les mises à jour logicielles incluent souvent des correctifs de sécurité qui protègent contre les vulnérabilités connues. Ils ajoutent également des fonctionnalités et corrigent les bogues, mais la sécurité est la principale préoccupation.",
+		"complementaryComment": "Il ne faut pas attendre qu'un danger déjà corrigé vous arrive quand même! Par ailleur, de l'espace de stockage peut parfois être libéré, mais aucun ne peut être ajouté sans intervention matérielle. L'utilisation de la batterie peut être optimisée par une amélioration du logiciel, mais ça ne l'empêche pas de vieillir."
+	},
+	{
+		"done": "true (-CC)",
+		"question": "Qu'est-ce que l'authentification à deux facteurs (2FA)?",
+		"a": "L'utilisation de deux mots de passe différents pour un même compte.",
+		"b": "L'exigence à la fois d'un mot de passe et d'une autre forme de vérification (comme un code envoyé à votre téléphone).",
+		"c": "La répétition de l'enregistrement deux fois pour le confirmer.",
+		"d": "Changement de mot de passe deux fois par mois.",
+		"right": "b",
+		"comment": "L'authentification à deux facteurs ajoute une couche de sécurité supplémentaire en exigeant à la fois un mot de passe et une autre forme de vérification, généralement un code envoyé à votre téléphone ou des données biométriques.",
+		"complementaryComment": "***"
+	},
+	{
+		"done": "true (-CC)",
+		"question": "Que devez-vous faire lors de la mise en place de nouveaux appareils domestiques intelligents?",
+		"a": "Utiliser le mot de passe admin par défaut",
+		"b": "Changer le mot de passe par défaut pour devenir quelque chose d'unique",
+		"c": "Connectez-les à votre réseau invité",
+		"d": "Les mettre à jour uniquement en cas de problème",
+		"right": "b",
+		"comment": "Les mots de passe par défaut sont facilement découverts par les attaquants. Changez-les immédiatement après la configuration du dispositif.",
+		"complementaryComment": "***"
+	},
+	{
+		"done": "true (-CC)",
+		"question": "Quelle caractéristique de courrier électronique est le plus souvent associée aux tentatives de phishing?",
+		"a": "Formatage et orthographe professionnels",
+		"b": "Un langage urgent exigeant une action immédiate",
+		"c": "Salutations génériques au lieu de votre nom",
+		"d": "Explications techniques complexes",
+		"right": "b",
+		"comment": "Les courriels de phishing créent souvent l'urgence d'agir rapidement sans attention minutieuse. Les organisations légitimes exigent rarement une action immédiate par courrier électronique.",
+		"complementaryComment": "***"
+	},
+	{
+		"done": "true (-CC)",
+		"question": "Quelle est la manière recommandée de sauvegarder des données à caractère personnel importantes?",
+		"a": "Tout stocker sur un disque dur externe",
+		"b": "Utiliser des services de stockage en nuage",
+		"c": "Suivre la règle 3-2-1: trois exemplaires, deux types de médias différents, un exemplaire hors site",
+		"d": "Envoyer des fichiers importants à vous-même",
+		"right": "c",
+		"comment": "La règle 3-2-1 fournit une protection de sauvegarde complète contre divers types de perte de données, y compris les pannes matérielles, les vols et les catastrophes naturelles.",
+		"complementaryComment": "***"
+	},
+	{
+		"done": "false",
+		"question": "Comment gérer les paramètres de confidentialité sur les plateformes de médias sociaux?",
+		"a": "Accepter tous les paramètres par défaut pour simplifier",
+		"b": "Examiner et personnaliser régulièrement les paramètres",
+		"c": "Désactiver complètement tous les services de localisation",
+		"d": "Partager le maximum d'informations publiquement",
+		"right": "b",
+		"comment": "L'examen régulier des autorisations de aide à garder le contrôle de votre empreinte numérique, car les paramètres par défaut privilégient souvent les intérêts de la plateforme par plus que ceux des utilisateurs.",
+		"complementaryComment": "Cet examen doit être régulier car parfois les autorisations évoluent au gré des mises à jour, ou se réinitialisent après une mise à jour ou un redémarrage."
+	},
+	{
+		"done": "false",
+		"question": "Que devez-vous faire immédiatement après avoir découvert que votre compte a été piraté ?",
+		"a": "Modifier les mots de passe pour tous les comptes",
+		"b": "Contacter les amis pour les avertir",
+		"c": "Publier à ce sujet sur les médias sociaux",
+		"d": "Attendre des instructions supplémentaires",
+		"right": "b",
+		"comment": "Le changement des mots de passe pour tous vos comptes empêche immédiatement d'autres accès non autorisés et limite les dommages potentiels. Cela devrait toujours être votre première action.",
+		"complementaryComment": "***"
+	}
+]
